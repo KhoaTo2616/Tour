@@ -8,7 +8,7 @@ function Header() {
     <div className="header">
       <a class="logo">Du Lịch Ngọc Trâm</a>
       <div class="header-right">
-        <a class="active float-on-hover" href="">
+        <a class="float-on-hover" href="">
           Trang Chủ
         </a>
         <Link class="float-on-hover" to="footer" spy={true} smooth={true}>

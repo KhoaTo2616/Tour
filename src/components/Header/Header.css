@@ -2,15 +2,11 @@
   overflow: hidden;
   background-color: #f1f1f1;
   transition: margin 0.2s ease-in-out;
-  padding: 20px 10px;
-}
-
-.bg-img {
-  background-image: url(../images/logo.jpg);
+  padding: 50px 10px;
+  margin-bottom: 30px;
 }
 
 .header a {
-  float: left;
   color: black;
   text-align: center;
   padding: 12px;
@@ -23,6 +19,7 @@
 .header a.logo {
   font-size: 25px;
   font-weight: bold;
+  float: left
 }
 
 .header a:hover {
