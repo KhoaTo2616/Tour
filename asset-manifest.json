@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/KhoaTo2616/Tour/static/css/main.18af9279.css",
-    "main.js": "/KhoaTo2616/Tour/static/js/main.107cdef6.js",
-    "static/media/logo.jpg": "/KhoaTo2616/Tour/static/media/logo.d4207b1bbde24bb5849b.jpg",
-    "index.html": "/KhoaTo2616/Tour/index.html",
-    "main.18af9279.css.map": "/KhoaTo2616/Tour/static/css/main.18af9279.css.map",
-    "main.107cdef6.js.map": "/KhoaTo2616/Tour/static/js/main.107cdef6.js.map"
+    "main.css": "/Tour/static/css/main.d47e8ed4.css",
+    "main.js": "/Tour/static/js/main.67ad44fb.js",
+    "static/media/logo.jpg": "/Tour/static/media/logo.d4207b1bbde24bb5849b.jpg",
+    "index.html": "/Tour/index.html",
+    "main.d47e8ed4.css.map": "/Tour/static/css/main.d47e8ed4.css.map",
+    "main.67ad44fb.js.map": "/Tour/static/js/main.67ad44fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.18af9279.css",
-    "static/js/main.107cdef6.js"
+    "static/css/main.d47e8ed4.css",
+    "static/js/main.67ad44fb.js"
   ]
 }
