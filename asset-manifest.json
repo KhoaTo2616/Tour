@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/KhoaTo2616/Tour/static/css/main.18af9279.css",
+    "main.js": "/KhoaTo2616/Tour/static/js/main.107cdef6.js",
+    "static/media/logo.jpg": "/KhoaTo2616/Tour/static/media/logo.d4207b1bbde24bb5849b.jpg",
+    "index.html": "/KhoaTo2616/Tour/index.html",
+    "main.18af9279.css.map": "/KhoaTo2616/Tour/static/css/main.18af9279.css.map",
+    "main.107cdef6.js.map": "/KhoaTo2616/Tour/static/js/main.107cdef6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18af9279.css",
+    "static/js/main.107cdef6.js"
+  ]
+}
