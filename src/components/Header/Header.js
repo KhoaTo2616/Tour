@@ -1,7 +1,6 @@
 import React from "react";
 import "./Header.css";
 import { Link } from "react-scroll";
-import logo from "../images/logo.jpg";
 
 function Header() {
   return (
@@ -11,7 +10,7 @@ function Header() {
         <a class="float-on-hover" href="">
           Trang Chủ
         </a>
-        <Link class="float-on-hover" to="footer" spy={true} smooth={true}>
+        <Link class="float-on-hover" to="footer" spy={true}>
           Liên Hệ
         </Link>
       </div>

@@ -17,8 +17,9 @@
 }
 
 .header a.logo {
-  font-size: 25px;
+  font-size: 30px;
   font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
   float: left
 }
 

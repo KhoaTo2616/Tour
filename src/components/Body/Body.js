@@ -1,6 +1,7 @@
 import React from "react";
 import { useMemo } from "react";
 import { GoogleMap, useLoadScript, Marker } from "@react-google-maps/api";
+import logo from "../../images/logo.jpg";
 import "./Body.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 <link
@@ -27,14 +28,15 @@ function Map() {
 
   return (
     <div className="body">
+      <p class="title">Xe Đi Thăm Nuôi: </p>
+      <div className="middle">
+        <p>- Trại Giam Huy Khiêm Tỉnh Bình Thuận</p>
+        <p>- Trại Giam Tống Lê Chân Tỉnh Bình Phước</p>
+        <p>- Trại Giam Phước Hòa - Mỹ Phước Tỉnh Tiền Giang</p>
+      </div>
       <div class="row">
         <div class="col">
-          <div class="leftside">
-            <h3>Xe Đi Thăm Nuôi: </h3>
-            <p>- Trại Giam Huy Khiêm Tỉnh Bình Thuận</p>
-            <p>- Trại Giam Tống Lê Chân Tỉnh Bình Phước</p>
-            <p>- Trại Giam Phước Hòa - Mỹ Phước Tỉnh Tiền Giang</p>
-          </div>
+          <div class="leftside"></div>
         </div>
 
         <div class="col">
