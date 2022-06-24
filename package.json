@@ -1,7 +1,7 @@
 {
   "name": "my-website",
   "version": "0.1.0",
-  "homepage": "https://khoato2616.github.io/Tour/",
+  "homepage": "https://thearcherplus.com",
   "private": true,
   "dependencies": {
     "@react-google-maps/api": "^2.11.9",
