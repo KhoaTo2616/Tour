@@ -36,7 +36,9 @@ function Map() {
       </div>
       <div class="row">
         <div class="col">
-          <div class="leftside"></div>
+          <div class="leftside">
+            <img src={logo} class="img-fluid" alt="Responsive image" />
+          </div>
         </div>
 
         <div class="col">
