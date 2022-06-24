@@ -42,7 +42,7 @@ function Map() {
         </div>
 
         <div class="col">
-          <div class="rightside">
+          <div className="rightside" class="col">
             <GoogleMap
               zoom={20}
               center={center}
